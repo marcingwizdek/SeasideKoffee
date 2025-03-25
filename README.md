@@ -18,7 +18,7 @@ Forecast – Prediction of sales performance for the remainder of the year.
 
 📷 Project Cover
 
-![Project Cover1](https://github.com/marcingwizdek/SeasideKoffee/blob/main/Project%20Cover/2.PNG)
+![Project Cover1](https://github.com/marcingwizdek/SeasideKoffee/blob/main/Project%20Cover/1.PNG)
 ![Project Cover1](https://github.com/marcingwizdek/SeasideKoffee/blob/main/Project%20Cover/2.PNG)
 
 
